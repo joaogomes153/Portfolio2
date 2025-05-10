@@ -35,7 +35,7 @@ header::before {
     bottom: 0;
     background: 
         linear-gradient(to bottom, rgba(45, 52, 54, 0.85), rgba(30, 39, 46, 0.9)),
-        url('header.png') center/cover;
+        url('src/assets/imagens/header.png') center/cover;
     z-index: -1;
 }
 
